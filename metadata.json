@@ -1,0 +1,12 @@
+{
+  "name": "oh-plg-wol",
+  "version": "1.0.0",
+  "intents": [
+    "devices",
+    "endpoints"
+  ],
+  "author": "Marc Stirner",
+  "website": "",
+  "description": "",
+  "uuid": "f887e0e7-7f48-4bb8-b04f-59551d5ac885"
+}
